@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CFO_Task/CFO_Task.csproj" />
+  <Project Path="CFS_TestCases/CFS_TestCases.csproj" />
+</Solution>
